@@ -1,3 +1,3 @@
 # Dynamite-Git-Example
-# Does something.
-# Does something conflicting experimentally.
+# Does something
+# Does something experimental
